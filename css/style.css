@@ -1,0 +1,105 @@
+body{
+	margin: 0 auto;
+	background-color: #2EFE9A;
+
+}
+
+h1{
+	color: #6E6E6E;
+	font-family: fantasy; 
+	font-size: xx-large;
+	font-weight: border;
+	text-align: center;
+	background-color: #D0A9F5;
+
+}
+h2{
+	color: #6E6E6E;
+	font-family:fantasy;
+	font-size: x-large;
+	font-weight: bolder;
+}
+
+div .summary{
+	color: #6E6E6E;
+	font-family: fantasy;
+	font-size: 22px;
+	line-height: 1.3;
+
+}
+
+h3{
+	color:#6E6E6E ;
+	font-family:fantasy;
+	font-size: x-large;
+	font-weight: bolder;
+}
+
+div .preamble{
+	color: #6E6E6E;
+	font-family: fantasy;
+	font-size: 22px;
+	line-height: 1.3;
+}
+
+div .explanation{
+	color: #6E6E6E;
+	font-family: fantasy;
+	font-size: 22px;
+	line-height: 1.3;
+}
+
+div .participation{
+	background-color: #81F7F3;
+	color: #6E6E6E;
+	font-family: fantasy;
+	font-size: 22px;
+	line-height: 1.3;
+}
+
+div .benefits{
+	color: #6E6E6E;
+	font-family: fantasy;
+	font-size: 22px;
+	line-height: 1.3;
+}
+
+a{
+	color: #424242;
+}
+
+div .requirements{
+	color: #6E6E6E;
+	font-family: fantasy;
+	font-size: 22px;
+	line-height: 1.3;
+}
+
+a{
+	color: #424242;
+}
+
+div .design-selection{
+	text-align: center;
+	font-family: fantasy;
+	font-size: 22px;
+	line-height: 1.3;
+}
+
+div .design-archives{
+	text-align: center;
+	font-family: fantasy;
+	font-size: 22px;
+	line-height: 1.3;
+}
+
+div .zen-resources{
+	text-align: center;
+	font-family: fantasy;
+	font-size: 22px;
+	line-height: 1.3;
+}
+
+
+
+
